@@ -1,0 +1,28 @@
+[
+  {
+    "Author": "ascclemens",
+    "Name": "Glamaholic",
+    "Punchline": "Save and swap your glamour plates.",
+    "Description": "Create and save as many glamour plates as you want. Activate up to 15 of them\nat once at the Glamour Dresser. Supports exporting and importing plates for\neasy sharing.\n",
+    "Changelog": " - Fix plates not importing correctly.",
+    "Tags": null,
+    "CategoryTags": null,
+    "IsHide": false,
+    "InternalName": "Glamaholic",
+    "AssemblyVersion": "1.9.5.0",
+    "TestingAssemblyVersion": null,
+    "IsTestingExclusive": false,
+    "RepoUrl": "https://git.annaclemens.io/ascclemens/Glamaholic",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 5,
+    "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Glamaholic?isUpdate=False\u0026isTesting=False\u0026branch=api5",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Glamaholic/latest.zip",
+    "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Glamaholic?isUpdate=False\u0026isTesting=True\u0026branch=api5",
+    "LoadPriority": 0,
+    "ImageUrls": null,
+    "IconUrl": null,
+    "AcceptsFeedback": true,
+    "FeedbackMessage": null,
+    "FeedbackWebhook": null
+  }
+]
