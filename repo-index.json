@@ -15,6 +15,8 @@
     "RepoUrl": "https://git.annaclemens.io/ascclemens/Glamaholic",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 5,
+    "DownloadCount": 19936,
+    "LastUpdate": 1650156488,
     "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/Glamaholic?isUpdate=False\u0026isTesting=False\u0026branch=api5",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Glamaholic/latest.zip",
     "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/Glamaholic?isUpdate=False\u0026isTesting=True\u0026branch=api5",
